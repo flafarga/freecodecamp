@@ -2,6 +2,35 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Francisco Lafarga",
 	"description": "This is my FreeCodeCamp project",
+	"keywords": [
+		"freecodecamp",
+		"project",
+		"backend"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment": "^2.x.x"
+	},
+	"package": "MAJOR.MINOR.PATCH",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Francisco Lafarga",
+	"description": "This is my FreeCodeCamp project",
+	"keywords": [
+		"freecodecamp",
+		"project",
+		"backend"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
